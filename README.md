@@ -9,4 +9,4 @@ Project Requires React Native Swiper: "https://github.com/leecade/react-native-s
 
 
 The full project can be found at https://github.com/ryanpetit/Fitnessapp
-The project is in collbaration with Chase King, Ryan Petitie, Adnre Kuplin.
+The project is in collbaration with Chase King, Ryan Petitie,and Andre Kuplin.
