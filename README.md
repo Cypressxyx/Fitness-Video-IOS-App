@@ -4,7 +4,7 @@ The app would help a novice user find a pre-generated workout and use the videos
 on a preffered body type.
 
 ![img](https://i.imgur.com/eQhoO8O.png)
-
+![img](https://i.imgur.com/hPLNb6H.png)
 
 Project Requires React Native Swiper: "https://github.com/leecade/react-native-swiper"
 
