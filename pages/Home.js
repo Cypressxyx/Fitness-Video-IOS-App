@@ -23,6 +23,11 @@ class HomeScreen extends Component {
 			color="#ffffff" 
 			onPress={ () => this.props.navigation.navigate('Workout')}
 		/>
+		<Button 
+			title="Database Example"
+			color="#ffffff" 
+			onPress={ () => this.props.navigation.navigate('db')}
+		/>
 		
 		
      	</View> 
